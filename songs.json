@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Mata Sannu",
+    "artist": "Ali Jita",
+    "album": "Arewa Classics",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "durationMs": 372000
+  },
+  {
+    "id": "2",
+    "title": "Fa'iza",
+    "artist": "Ali Jita",
+    "album": "Fa'iza Single",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "durationMs": 423000
+  },
+  {
+    "id": "3",
+    "title": "Kano City",
+    "artist": "Ali Jita",
+    "album": "Heritage",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "durationMs": 344000
+  },
+  {
+    "id": "4",
+    "title": "Buhari / Shugaba",
+    "artist": "Ali Jita",
+    "album": "Afro Hausa",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "durationMs": 302000
+  },
+  {
+    "id": "5",
+    "title": "Zabiya",
+    "artist": "Ali Jita",
+    "album": "Zabiya Collection",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "durationMs": 398000
+  },
+  {
+    "id": "6",
+    "title": "Juya Juya",
+    "artist": "Ali Jita",
+    "album": "Dance Hits",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "durationMs": 285000
+  },
+  {
+    "id": "7",
+    "title": "Arewa Neman Lada",
+    "artist": "Ali Jita",
+    "album": "Arewa Classics",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "durationMs": 410000
+  },
+  {
+    "id": "8",
+    "title": "Soyayya Da Shagali",
+    "artist": "Ali Jita",
+    "album": "Love Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "durationMs": 330000
+  }
+]
