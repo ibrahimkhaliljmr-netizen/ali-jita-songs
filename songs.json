@@ -1,74 +1,128 @@
 [
   {
     "id": "1",
-    "title": "ibrahim laaks",
-    "artist": "Lakuro",
-    "album": "Arewa Classics",
+    "title": "Bazawara",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Aboki_mugu_ft_ismail_Tsito_zainab_Sambisa_and_Yamu_Baba.mp3",
-    "durationMs": 372000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_Bazawara.mp3",
+    "durationMs": 300000
   },
   {
     "id": "2",
-    "title": "Fa'iza",
+    "title": "Darling Remix (feat. Og Abbah)",
     "artist": "Ali Jita",
-    "album": "Fa'iza Single",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "durationMs": 423000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_Darling_Remix_feat_Og_Abbah.mp3",
+    "durationMs": 300000
   },
   {
     "id": "3",
-    "title": "Kano City",
+    "title": "Ina Ma",
     "artist": "Ali Jita",
-    "album": "Heritage",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-    "durationMs": 344000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_Ina_Ma.mp3",
+    "durationMs": 300000
   },
   {
     "id": "4",
-    "title": "Buhari / Shugaba",
+    "title": "Kurman Zance",
     "artist": "Ali Jita",
-    "album": "Afro Hausa",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-    "durationMs": 302000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_Kurman_Zance.mp3",
+    "durationMs": 300000
   },
   {
     "id": "5",
-    "title": "Zabiya",
+    "title": "Sallama (ft. Ado Gwanja)",
     "artist": "Ali Jita",
-    "album": "Zabiya Collection",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-    "durationMs": 398000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_SALLAMA_Ft_Ado_Gwanja.mp3",
+    "durationMs": 300000
   },
   {
     "id": "6",
-    "title": "Juya Juya",
+    "title": "Sadaki",
     "artist": "Ali Jita",
-    "album": "Dance Hits",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
-    "durationMs": 285000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_Sadaki.mp3",
+    "durationMs": 300000
   },
   {
     "id": "7",
-    "title": "Arewa Neman Lada",
+    "title": "Yau Da Labari",
     "artist": "Ali Jita",
-    "album": "Arewa Classics",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
-    "durationMs": 410000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_Jita_Yau_Da_Labari.mp3",
+    "durationMs": 300000
   },
   {
     "id": "8",
-    "title": "Soyayya Da Shagali",
+    "title": "Aure Yana Da Dadi",
     "artist": "Ali Jita",
-    "album": "Love Songs",
+    "album": "Ali Jita Songs",
     "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
-    "durationMs": 330000
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_jita_Aure_yana_da_dadi.mp3",
+    "durationMs": 300000
+  },
+  {
+    "id": "9",
+    "title": "Love (Official)",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_jita_Love_official.mp3",
+    "durationMs": 300000
+  },
+  {
+    "id": "10",
+    "title": "Mai Waka",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_jita_Mai_waka.mp3",
+    "durationMs": 300000
+  },
+  {
+    "id": "11",
+    "title": "Shalelen Miji Amarya",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_jita_Shalelen_miji_Amarya.mp3",
+    "durationMs": 300000
+  },
+  {
+    "id": "12",
+    "title": "Uwar Gida",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Ali_jita_Uwar_gida.mp3",
+    "durationMs": 300000
+  },
+  {
+    "id": "13",
+    "title": "Asha Ruwa",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/Asha_Ruwa_by_Ali_Jita.mp3",
+    "durationMs": 300000
+  },
+  {
+    "id": "14",
+    "title": "Bayanin Jita",
+    "artist": "Ali Jita",
+    "album": "Ali Jita Songs",
+    "albumArtUrl": "android.resource://com.music.alijitasongs/drawable/in_app_icon",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/ali-jita-songs@main/songs/BAYANIN_JITA.mp3",
+    "durationMs": 300000
   }
 ]
